@@ -1,0 +1,14 @@
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\bin\Debug\netcoreapp3.1\QuoterApp.exe
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\bin\Debug\netcoreapp3.1\QuoterApp.deps.json
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\bin\Debug\netcoreapp3.1\QuoterApp.runtimeconfig.json
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\bin\Debug\netcoreapp3.1\QuoterApp.runtimeconfig.dev.json
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\bin\Debug\netcoreapp3.1\QuoterApp.dll
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\bin\Debug\netcoreapp3.1\QuoterApp.pdb
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\obj\Debug\netcoreapp3.1\QuoterApp.csproj.AssemblyReference.cache
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\obj\Debug\netcoreapp3.1\QuoterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\obj\Debug\netcoreapp3.1\QuoterApp.AssemblyInfoInputs.cache
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\obj\Debug\netcoreapp3.1\QuoterApp.AssemblyInfo.cs
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\obj\Debug\netcoreapp3.1\QuoterApp.csproj.CoreCompileInputs.cache
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\obj\Debug\netcoreapp3.1\QuoterApp.dll
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\obj\Debug\netcoreapp3.1\QuoterApp.pdb
+C:\Users\kulbo\Desktop\QuoterApp\QuoterApp\obj\Debug\netcoreapp3.1\QuoterApp.genruntimeconfig.cache
